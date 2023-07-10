@@ -1,0 +1,1 @@
+//funciones que se nesecitan 
